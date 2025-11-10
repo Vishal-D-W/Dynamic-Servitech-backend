@@ -4,6 +4,7 @@
   "description": "ACD Password Calculator Backend",
   "main": "server.js",
   "type": "module",
+  "engines": { "node": ">=18" },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
